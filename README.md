@@ -2,7 +2,7 @@
 
 <h2>🔎 Computer Vision Projects | AI and Deep Learning</h2>
 
-- [Web-based Safety Evewear Detection](link)
+- [Web-based Safety Eyewear Detection](link)
 - [Masked Face Recognition](https://github.com/najlaathirah/Masked-Face-Detection)
 
 <h2>🏆 Certifications</h2>
