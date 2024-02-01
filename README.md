@@ -8,7 +8,7 @@
 <h2>🏆 Certifications</h2>
 
 - [ISC2 Certified in Cybersecurity (CC)](https://www.credly.com/badges/52959c45-8ad8-4d92-8f59-5aa370c8be1f/public_url)
-- [Professional Certification of Deep Learning in Intelligent Video Analytics and Computer Vision](link)
+- [Professional Certification of Deep Learning in Intelligent Video Analytics and Computer Vision](https://drive.google.com/file/d/18m6QmURFjVyNwJPtPjUKcVDJg9eBWOxL/view?usp=sharing)
 
 
 <h2> 🤳 Connect with me</h2>
