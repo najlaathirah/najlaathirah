@@ -1,4 +1,4 @@
-<h1>Hi, I'm Athirah!</h1>
+<h1>Athirah Nazri</h1>
 
 <h2>🔎 Computer Vision Projects | AI and Deep Learning</h2>
 
