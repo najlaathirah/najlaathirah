@@ -5,6 +5,10 @@
 - [Web-based Safety Eyewear Detection](https://github.com/najlaathirah/Web-based-Safety-Eyewear-Detection-System)
 - [Masked Face Recognition](https://github.com/najlaathirah/Masked-Face-Detection)
 
+<h2>📊 Data Analysis Projects</h2>
+
+- [Road Accident Analysis | Excel and PowerBI](link)
+
 <h2>🏆 Certifications</h2>
 
 - [ISC2 Certified in Cybersecurity (CC)](https://www.credly.com/badges/52959c45-8ad8-4d92-8f59-5aa370c8be1f/public_url)
