@@ -7,7 +7,7 @@
 
 <h2>📊 Data Analysis Projects</h2>
 
-- [Road Accident Analysis | Excel and PowerBI](https://github.com/najlaathirah)
+- [Road Accident Analysis | Excel and PowerBI](https://github.com/najlaathirah/Road-Accident-Analysis)
 
 <h2>🏆 Certifications</h2>
 
