@@ -7,7 +7,7 @@
 
 <h2>📊 Data Analysis Projects</h2>
 
-- [Road Accident Analysis | SQL and PowerBI](https://github.com/najlaathirah/Road-Accident-Analysis)
+- [Road Accident Analysis | SQL and Power BI](https://github.com/najlaathirah/Road-Accident-Analysis)
 
 <h2>🏆 Certifications</h2>
 
