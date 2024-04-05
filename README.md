@@ -2,7 +2,7 @@
 
 <h2>🛡️ Cybersecurity Projects</h2>
 
-- [Keylogging Vulnerabilities in Windows XP](https://github.com/najlaathirah/Keylogger)
+- [Exploring Keylogging Vulnerabilities in Windows XP](https://github.com/najlaathirah/Keylogger)
 
 <h2>🔎 Computer Vision Projects | AI and Deep Learning</h2>
 
