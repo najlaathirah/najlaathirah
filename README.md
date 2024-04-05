@@ -3,7 +3,6 @@
 <h2>🛡️ Cybersecurity Projects</h2>
 
 - [Keylogging Vulnerabilities in Windows XP](https://github.com/najlaathirah/Keylogger)
-- [Masked Face Recognition](https://github.com/najlaathirah/Masked-Face-Detection)
 
 <h2>🔎 Computer Vision Projects | AI and Deep Learning</h2>
 
